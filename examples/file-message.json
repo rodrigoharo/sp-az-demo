@@ -1,0 +1,18 @@
+{
+  "sharePointHostname": "contoso.sharepoint.com",
+  "sharePointSitePath": "/sites/DEMO-ASSETS",
+  "sharePointDriveId": "b!demo-drive-id",
+  "sharePointDrivePath": "PRODUCTION/2026/BOOKS/GRADE-03/ARTWORK/Cover.ai",
+  "targetBlobName": "sp/ativos/24-25/backup/9000-demo-collection/9000602000001-demo-book/grafica/arquivos-abertos/cover.ai",
+  "metadata": {
+    "origem": "sharepoint",
+    "origemCaminho": "Arquivos Abertos",
+    "linhaPlanilha": "12"
+  },
+  "aemMetadata": {
+    "demo:referenciaColecaoLote": "9000-DEMO-COLLECTION",
+    "demo:cdISA": "9000602000001",
+    "demo:nomeArquivoOriginal": "Cover.ai",
+    "demo:tagsFase1": "BATCH-01"
+  }
+}

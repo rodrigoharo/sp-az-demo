@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.python_packages/
+.az-extensions-empty/
+local.settings.json
+montar-fila/
+aem-metadata/
+orquestrador/
+normalizacao/
+

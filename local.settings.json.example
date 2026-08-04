@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "<host-storage-connection-string>",
+    "QUEUE_STORAGE_CONNECTION_STRING": "<queue-storage-connection-string>",
+    "DEST_STORAGE_ACCOUNT_URL": "<dest-storage-account-url>",
+    "DEST_CONTAINER_NAME": "<dest-container-name>",
+    "QUEUE_NAME": "<file-queue-name>",
+    "FOLDER_QUEUE_NAME": "<folder-queue-name>",
+    "STATUS_TABLE_NAME": "<status-table-name>",
+    "SHAREPOINT_TENANT_ID": "<tenant-id>",
+    "SHAREPOINT_CLIENT_ID": "<graph-app-client-id>",
+    "SHAREPOINT_CLIENT_SECRET": "<graph-app-client-secret>"
+  }
+}
+

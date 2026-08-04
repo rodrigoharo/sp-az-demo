@@ -1,0 +1,33 @@
+{
+  "sharePointHostname": "contoso.sharepoint.com",
+  "sharePointSitePath": "/sites/DEMO-ASSETS",
+  "sharePointDriveId": "b!demo-drive-id",
+  "sharePointFolderPath": "PRODUCTION/2026/BOOKS/GRADE-03/ARTWORK",
+  "targetBlobPrefix": "sp/ativos/24-25/backup/9000-demo-collection/9000602000001-demo-book/grafica/arquivos-abertos",
+  "recursive": true,
+  "metadata": {
+    "origem": "sharepoint",
+    "origemCaminho": "Arquivos Abertos",
+    "linhaPlanilha": "12",
+    "site": "DEMO-ASSETS",
+    "damRoot": "sp/ativos",
+    "damCiclo": "24-25",
+    "damTipo": "backup",
+    "damCodigoColecao": "9000-demo-collection",
+    "damRetrancaMaterial": "9000602000001-demo-book",
+    "damCategoria": "grafica"
+  },
+  "aemMetadata": {
+    "demo:referenciaColecaoLote": "9000-DEMO-COLLECTION",
+    "demo:ciclo": "24/25",
+    "demo:cdISA": "9000602000001",
+    "demo:cdRede": "9000",
+    "demo:anoUso": "3rd Grade",
+    "demo:segmento": "Demo",
+    "demo:colecao": "Demo Collection",
+    "demo:nome": "Demo Book",
+    "demo:produto": "Student Book",
+    "demo:saida": "Print",
+    "demo:tagsFase1": "BATCH-01"
+  }
+}

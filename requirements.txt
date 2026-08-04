@@ -1,0 +1,8 @@
+azure-functions
+azure-identity
+azure-storage-blob
+azure-storage-queue
+azure-data-tables
+requests
+
+
